@@ -1,0 +1,123 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>First Website</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<div id="header">
+				<h1>Hi. I'm Paulo Santiago De Leon.</h1>
+				<p>and this is my first website for Introduction to Computing.</a>
+				<br />
+				I hope you find my webstie interactive and visually appealing. </a></p>
+			</div>
+
+		<!-- Main -->
+			<div id="main">
+
+				<header class="major container medium">
+					<h2>I plan on making
+					<br />
+					websites for a long time
+					<br />
+					this is but a stepping stone.</h2>
+				</header>
+
+				<div class="box alt container">
+					<section class="feature left">
+						<a href="https://www.google.com/maps/place/Leiva,+Santa+Ana,+Manila,+Metro+Manila/@14.5799657,121.0133224,19.25z/data=!4m5!3m4!1s0x3397c9be81dcf44d:0xbcd19c5360294441!8m2!3d14.5801657!4d121.0141944" class="image icon solid fa-signal"><img src="C:./Users/Olive/Downloads/Oluap/Website/images/SP.JPG" style="height:500px;width:500px" /></a>
+						<div class="content">
+							<h3>This is me</h3>
+							<p>Introduction. My name is Paulo Santiago De Leon. I live around Manila and have been staying here for roughly about 10 years. 	I am a First year Information Technology Student. I am willing to learn more about creating websites and such. I also strive to be a great programmer in the future. I am enrolled at Adamson University. Currently 19 years old and will turn 20 on October 24, 2023.</p>
+						</div>
+					</section>
+
+                    <section class="feature right">
+						<div class="content">
+						</div>
+					</section>
+
+					<section class="feature right">
+						<a href="https://www.youtube.com/watch?v=rR1lgEMMJwo" class="image icon solid fa-code"><img src="C:./Users/Olive/Downloads/Oluap/Website/images/SM.JPG" style="height:500px;width:500px" /></a>
+						<div class="content">
+							<h3>Favorite song</h3>
+							<p>I listen to this song whenever I want to be inspired or just want something to boost my mood. I have always loved listening to all types of music. </p>
+						</div>
+					</section>
+				
+					 <section class="feature left">
+						<div class="content">
+						</div>
+					</section>
+					
+					<header class="major container medium">
+					<h2> My Gallery </h2>
+					</header>
+					
+					<section>
+						<div class="gallery">
+        <img src="C:./Users/Olive/Downloads/Oluap/Website/images/ME1.JPG">
+        <img src="C:./Users/Olive/Downloads/Oluap/Website/images/ME3.JPG">
+        <img src="C:./Users/Olive/Downloads/Oluap/Website/images/ME6.JPG">
+        <img src="C:./Users/Olive/Downloads/Oluap/Website/images/ME2.JPG">
+        <img src="C:./Users/Olive/Downloads/Oluap/Website/images/ME4.JPG">
+        <img src="C:./Users/Olive/Downloads/Oluap/Website/images/ME5.JPG">
+       
+                		</div>
+					</section>
+
+				<footer class="major container medium">
+					<h3>Jack of all trades when it comes to coding.</h3>
+					<p></p>
+				</footer>
+
+			</div>
+
+		<!-- Footer -->
+			<div id="footer">
+				<div class="container medium">
+
+					<p>Fill this form up to see and send inquiries through paulosdeleon24@gmail.com</p>
+
+					<form method="post" action="#">
+						<div class="row">
+							<div class="col-6 col-12-mobilep">
+								<input type="text" name="name" placeholder="Name" />
+							</div>
+							<div class="col-6 col-12-mobilep">
+								<input type="email" name="email" placeholder="Email" />
+							</div>
+							<div class="col-12">
+								<textarea name="message" placeholder="Message" rows="6"></textarea>
+							</div>
+							<div class="col-12">
+								<ul class="actions special">
+									<li><input type="submit" value="Send Message" /></li>
+								</ul>
+							</div>
+						</div>
+					</form>
+
+					<ul class="icons">
+						<li><a href="https://twitter.com/pawideloo" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a href="https://www.facebook.com/pawiidelo/" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+						<li><a href="https://www.instagram.com/_lopauuu/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+						<li><a href="https://github.com/OzaShizaki" class="icon brands fa-github"><span class="label">Github</span></a></li>
+					</ul>
+
+				</div>
+			</div>
+			
+        <!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+			
+	</body>
+</html>
